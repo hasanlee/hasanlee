@@ -11,7 +11,7 @@
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/facebook.svg" />][facebook]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[![Linkedin Badge](https://img.shields.io/badge/-hasanli-hasan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hasanli-hasan/)](https://www.linkedin.com/in/hasanli-hasan/)
 
 
 <br />
@@ -51,10 +51,13 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
+---
 
-### GitHub Statistics
+[github stats](https://github-readme-stats.vercel.app/api?username=hasanlee&show_icons=true&line_height=30)
 
-[hasanlee](https://github.com/hasanlee)| ![github stats](https://github-readme-stats.vercel.app/api?username=hasanlee&show_icons=true&line_height=30)
+---
+
+ ![visitors](https://visitor-badge.laobi.icu/badge?page_id=hasanlee.hasanlee)
 
 ---
 
