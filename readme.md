@@ -34,6 +34,7 @@
 <img align="left" alt=".Net" width="26px" src="https://cdn4.iconfinder.com/data/icons/logos-3/504/ASP.Net-512.png" />
 <img align="left" alt="Django" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/django-2-282855.png" />
 <img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/768px-Python.svg.png" />
+<img align="left" alt="Vue" width="26px" src="https://img2.freepng.ru/20180718/cbh/kisspng-vue-js-javascript-library-angularjs-react-vue-js-5b4ebe1bc45884.1915769815318871318042.jpg" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
