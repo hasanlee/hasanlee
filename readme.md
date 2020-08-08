@@ -47,16 +47,6 @@
 
 ---
 
-### 📕 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
----
-
-![github stats](https://github-readme-stats.vercel.app/api?username=hasanlee&show_icons=true&line_height=30)
-
----
-
  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=hasanlee.hasanlee)
 
 ---
