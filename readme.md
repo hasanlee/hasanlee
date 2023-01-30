@@ -4,4 +4,5 @@
 
  [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,redux,jquery,php,laravel,cs,dotnet,docker,mongodb,mysql,postgres,firebase,github,netlify,visualstudio,vscode&perline=21)](https://skillicons.dev)
   
+ [![GitHub Streak](https://streak-stats.demolab.com/?user=hasanlee&theme=dark)](https://git.io/streak-stats)
  [![GitHub Streak](https://streak-stats.demolab.com/?user=hasanhasanli0&theme=dark)](https://git.io/streak-stats)
